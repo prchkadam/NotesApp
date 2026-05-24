@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bggrey: #f6f5f4; 
+}
