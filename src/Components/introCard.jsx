@@ -12,9 +12,6 @@ const introCard = () => {
     <section className="flex flex-col-reverse md:flex-row items-center justify-between gap-10 md:gap-16 py-12 md:py-20">
       {/* Left Text Area */}
       <div className="flex-1 text-center md:text-left space-y-6">
-        <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-neutral-100 dark:bg-neutral-800 text-neutral-800 dark:text-neutral-200 border border-neutral-200/50 dark:border-neutral-700/50 uppercase tracking-wider">
-          ✨ Space for your ideas
-        </span>
         
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-neutral-900 dark:text-white leading-[1.15]">
           NotesApp for <br />
